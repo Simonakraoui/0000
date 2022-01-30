@@ -1,0 +1,25 @@
+#EXTM3U 
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1ae43eb0-81f3-11ec-a3fe-679d085665ca/2779651/488477333.png" group-title="Mama", AR:Medi_1_HD
+http://smartestv.vip:2095/ABHVYOP/2387998104/19531
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1ae43eb0-81f3-11ec-a3fe-679d085665ca/2779651/488477323.png" group-title="Mama", AR:AL_Sadissa_FHD
+http://smartestv.vip:2095/ABHVYOP/2387998104/19528
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1ae43eb0-81f3-11ec-a3fe-679d085665ca/2779651/488477317.png" group-title="Mama", AR:Al_Aoula_HD
+http://smartestv.vip:2095/ABHVYOP/2387998104/1337
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1ae43eb0-81f3-11ec-a3fe-679d085665ca/2779651/488477311.png" group-title="Mama", AR:2M_Maroc
+http://smartestv.vip:2095/ABHVYOP/2387998104/1364
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1ae43eb0-81f3-11ec-a3fe-679d085665ca/2779651/488477320.png" group-title="Mama", AR:Al_Maghribia_HD
+http://smartestv.vip:2095/ABHVYOP/2387998104/19526
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1ae43eb0-81f3-11ec-a3fe-679d085665ca/2779651/488477325.jpg" group-title="Mama", AR:Arrabiaa_HD
+http://smartestv.vip:2095/ABHVYOP/2387998104/19530
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1ae43eb0-81f3-11ec-a3fe-679d085665ca/2779651/488477389.png" group-title="Mama", AR:Al_Resalah
+http://smartestv.vip:2095/ABHVYOP/2387998104/1309
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1ae43eb0-81f3-11ec-a3fe-679d085665ca/2779651/488477240.jpg" group-title="Mama", AR:Nour_Sham
+http://smartestv.vip:2095/ABHVYOP/2387998104/2217
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1ae43eb0-81f3-11ec-a3fe-679d085665ca/2779651/488477384.png" group-title="Mama", AR:Azhari
+http://smartestv.vip:2095/ABHVYOP/2387998104/68859
+#EXTINF: -1 tvg-id="France24Arabic.fr" tvg-name="France 24 Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Mama", France 24 Arabic (576p)
+https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
+#EXTINF: -1 tvg-id="Spacetoon.sy" tvg-logo="https://i.imgur.com/RzPOwqI.png" group-title="Mama", Spacetoon (1080p)
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF: -1 tvg-id="MBC 3" tvg-name="MBC 3" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Mama", MBC 3 (1080p)
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
